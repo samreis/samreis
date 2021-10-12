@@ -1,9 +1,10 @@
 Hey! 🙋🏻‍♀️
 
 My name is Samantha Reis. I'm a Brazilian computer science student (and I love it!) who's passionate about solving problems and learning new skills. I'm always open to new challenges and ready to face changes! ‍🚀
-  #
 
-"Make things as simple as possible. But don't limit yourself to the simplest things." sparklesbrain
+"Make things as simple as possible. But don't limit yourself to the simplest things." 
+
+#
 
 <div align="center">
   <a href="https://github.com/samreis">
