@@ -5,13 +5,10 @@ My name is Samantha Reis. I'm a Brazilian computer science student (and I love i
 "Make things as simple as possible. But don't limit yourself to the simplest things." 
 
 #
-
 <div align="center">
-  <a href="https://github.com/samreis">
-  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=samreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samreis&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+<img height="167em" src="https://github-readme-stats.vercel.app/api?username=samreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samreis&layout=compact&langs_count=7&theme=dracula"/>
+ </div>
 ##
   
 <div>
@@ -23,3 +20,4 @@ My name is Samantha Reis. I'm a Brazilian computer science student (and I love i
   ![Snake animation](https://github.com/samreis/samreis/blob/output/github-contribution-grid-snake.svg)
   </div>
   
+
