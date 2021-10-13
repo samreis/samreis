@@ -1,8 +1,8 @@
-Hey! 🙋🏻‍♀️
+### Hey!  🙋‍♀️
 
-My name is Samantha Reis. I'm a Brazilian computer science student (and I love it!) who's passionate about solving problems and learning new skills. I'm always open to new challenges and ready to face changes! ‍🚀
+My name is Samantha Reis. I'm a Brazilian computer science student (and I love it!) who's passionate about solving problems and learning new skills. I'm always open to new challenges and ready to face changes! 🚀🚀
 
-"Make things as simple as possible. But don't limit yourself to the simplest things." 
+#### “I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand." ✨🧠 (Ada Lovelace)
 
 #
 
