@@ -12,6 +12,7 @@ My name is Samantha Reis. I'm a Brazilian computer science student (and I love i
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samreis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
+
 ##
   
 <div align="center">
