@@ -3,16 +3,15 @@
 My name is Samantha Reis. I'm a Brazilian computer science student (and I love it!) who's passionate about solving problems and learning new skills. I'm always open to new challenges and ready to face changes! 🚀🚀
 
 #### “I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand." ✨🧠 (Ada Lovelace)
-
+  
 #
   
-  <div align="center">
+<div align="center">
   <a href="https://github.com/samreis">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samreis&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-
 ##
   
 <div style="display: inline_block" align="center">
